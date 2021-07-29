@@ -11,6 +11,8 @@ Nombre y apellidos: *Iñaki Marzo Díaz*
 
 ## Cómo empiezo
 
-1: Debes ejecutar el comando: *npm run start*.
+1: Debes ejecutar el comando: *npm run install*, para tener todas las dependencias.
 
-2: Abrir un navegador, y conectarte a http://localhost:8080/
+2:  Debes ejecutar el comando: *npm run start*, para ejecutar el servidor de desarrollo.
+
+3: Abrir un navegador, y conectarte a http://localhost:8080/
