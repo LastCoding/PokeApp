@@ -11,7 +11,7 @@ Nombre y apellidos: *Iñaki Marzo Díaz*
 
 ## Cómo empiezo
 
-1: Debes ejecutar el comando: *npm run install*, para tener todas las dependencias.
+1: Debes ejecutar el comando: *npm install*, para tener todas las dependencias.
 
 2:  Debes ejecutar el comando: *npm run start*, para ejecutar el servidor de desarrollo.
 
